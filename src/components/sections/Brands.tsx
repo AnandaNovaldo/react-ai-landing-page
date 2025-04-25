@@ -21,7 +21,7 @@ export const Brands = () => {
                 <div className="flex justify-center flex-wrap gap-4">
                     {logos.map((logo, key) => (
                         <div key ={key} className="p-4 sm:p-5 rounded-xl bg-body border border-box-border group">
-                            <img src={`/public/assets/logos/${logo}.png`}
+                            <img src={`/assets/logos/${logo}.png`}
                             width="800"
                             height="60"
                             alt={logo}
