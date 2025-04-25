@@ -1,5 +1,5 @@
 import { Container } from "../shared/Container";
-import logo from "../../assets/bornicon.svg";
+import logo from "/assets/bornicon.svg";
 import { navItems } from "./Navbar";
 import { NavItem } from "../shared/NavItem";
 
