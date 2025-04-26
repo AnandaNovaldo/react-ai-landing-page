@@ -5,9 +5,9 @@ const logos = [
     "discord",
     "openai",
     "paypal",
-    "slack",
     "spotify",
     "youtube",
+    "adobe"
 ];
 
 export const Brands = () => {
